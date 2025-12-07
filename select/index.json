@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "花に風",
+  "base_artist": "balloon",
+  "createdAt": "2025-12-07T07:53:14.833899Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花に風",
+      "artist": "balloon",
+      "has_synced": true,
+      "path": "select/01_花に風_balloon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月に叢雲、花に風",
+      "artist": "An Cafe",
+      "has_synced": true,
+      "path": "select/02_月に叢雲、花に風_An_Cafe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花に風",
+      "artist": "balloon",
+      "has_synced": false,
+      "path": "select/pl_01_花に風_balloon.txt"
+    }
+  ]
+}
